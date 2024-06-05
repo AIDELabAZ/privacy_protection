@@ -37,7 +37,7 @@
 * Define root folder globals
     if `"`c(username)'"' == "jdmichler" {
         global 		code  	"C:/Users/jdmichler/git/weather_project"
-		global 		data	"G:/My Drive/weather_project"
+		global 		data	"C:/Users/jdmichler/OneDrive - University of Arizona/weather_project"
     }
 
     if `"`c(username)'"' == "aljosephson" {
